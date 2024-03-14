@@ -17,8 +17,7 @@ const About = () => {
           Food Is An Important Part Of A Balanced Diet
         </h1>
         <p className="primary-text">
-          Lorem ipsum dolor sit amet consectetur. Non tincidunt magna non et
-          elit. Dolor turpis molestie dui magnis facilisis at fringilla quam.
+     Healthy cooking made effortless! Our skilled chefs handle all the prep tasks from peeling and chopping to marinating enabling you to effortlessly prepare fresh, delicious meals.
         </p>
         <p className="primary-text">
           Non tincidunt magna non et elit. Dolor turpis molestie dui magnis
